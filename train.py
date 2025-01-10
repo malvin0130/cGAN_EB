@@ -1,6 +1,5 @@
 from cGAN import *
 from utils import *
-# from utils_new import *
 import time
 
 if __name__ == '__main__':
