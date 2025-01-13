@@ -5,7 +5,7 @@ This repo includes the cGAN model and its training process as well as some gener
 - [cGAN.py](./cGAN.py) - Model structure
 - [train.py](./train.py) - Model training
 - [utils.py](./utils.py) - Results analysis
-- `[cGAN Generation]`(https://github.com/malvin0130/cGAN_EB/tree/main/cGAN%20Generation) - Generated load profiles for different PV/EV labels
+- [`cGAN Generation`](https://github.com/malvin0130/cGAN_EB/tree/main/cGAN%20Generation) - Generated load profiles for different PV/EV labels
 
 ## Usage
 1. Sample days of generated data from [cGAN Generation](https://github.com/malvin0130/cGAN_EB/tree/main/cGAN%20Generation) for the PV/EV status needed.
