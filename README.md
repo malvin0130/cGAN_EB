@@ -13,12 +13,4 @@ This repo includes the cGAN model and its training process as well as some gener
 
 ## Citation
 If you use this code or data, please cite:
-```bibtex
-@article{cgan2024,
-  title={Conditional Generative Adversarial Network (Cgan) for Generating Building Load Profiles with Distributed Energy Resources (Der)},
-  author={Li, Y., Dong, B., Qiu, Y.},
-  year={2024},
-  publisher={Preprint},
-  url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025785},
-  note={Preprint}
-}
+Li, Y., Dong, B., & Qiu, Y. (2025). Conditional Adversarial Network (cGAN) for Generating Building Load Profiles with Photovoltaics and Electric Vehicles. Energy and Buildings, 335, 115584. https://doi.org/10.1016/j.enbuild.2025.115584
